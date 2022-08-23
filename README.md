@@ -11,7 +11,7 @@
 ## Installation of the protector theme
 1. Clone or download this repo
 2. Copy the content of the repo to /usr/share/lightdm-webkit/themes/protector/
-2. Install `lightdm` and `lightdm-webkit2-greeter` (if you cannot find it in repositories, download precompiled binary from project site and install)
+2. Install `lightdm` from your distribution repositories and download and install `lightdm-webkit2-greeter` package for your distribution from https://software.opensuse.org/download.html?project=home:antergos&package=lightdm-webkit2-greeter
 4. Set webkit2 greeter as a greeter. Edit file (create if needed): `/etc/lightdm/lightdm.conf`: 
 
 [Seat:*]
