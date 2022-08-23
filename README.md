@@ -1,4 +1,8 @@
 # Thanks for using PROTECTOR lightdm-webkit2 theme
+
+![Alt text](relative/path/to/img.jpg?raw=true "Title")
+
+
 # This theme is forked from "minimal" theme.
 # 
 # Original theme Github repo: 
