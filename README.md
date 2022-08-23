@@ -3,7 +3,7 @@
 ![Alt text](assets/protector_theme.png?raw=true "Screenshot")
 
 
-# This theme is forked from "minimal" theme.
+# This lightdm theme is forked from "minimal" theme.
 # 
 # Original theme Github repo: 
 # https://github.com/allacee/lightdm-webkit2-theme-minimal
