@@ -1,4 +1,4 @@
-# Thanks for using PROTECTOR lightdm-webkit2 theme
+# PROTECTOR is a lightdm-webkit2-greeter animated theme. 
 
 ![Alt text](assets/protector_theme.png?raw=true "Screenshot")
 
