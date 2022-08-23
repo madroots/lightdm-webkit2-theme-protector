@@ -12,7 +12,7 @@
 1. Clone or download this repo
 2. Copy the content of the repo to /usr/share/lightdm-webkit/themes/protector/
 2. Install `lightdm` and `lightdm-webkit2-greeter` (if you cannot find it in repositories, download precompiled binary from project site and install)
-4. Set webkit2 greeter as a greeter. Edit file (create if needed): /etc/lightdm/lightdm.conf: 
+4. Set webkit2 greeter as a greeter. Edit file (create if needed): `/etc/lightdm/lightdm.conf`: 
 
 [Seat:*]
 
