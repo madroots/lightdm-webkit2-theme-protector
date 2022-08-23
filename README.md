@@ -1,6 +1,6 @@
 # Thanks for using PROTECTOR lightdm-webkit2 theme
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](assets/protector_theme.png?raw=true "Screenshot")
 
 
 # This theme is forked from "minimal" theme.
